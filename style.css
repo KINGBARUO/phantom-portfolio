@@ -1241,3 +1241,17 @@ section{
 
 }
 }
+
+.top-btn:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 0 20px #D4AF37;
+
+}
+
+.nav-links a.active{
+
+    color:#D4AF37;
+
+}
